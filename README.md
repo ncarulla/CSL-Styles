@@ -1,7 +1,7 @@
 CSL Style Repository
 ====================
 
-[github.com/rcbraga/CSL-Styles/](https://github.com/rcbraga/CSL-Styles/) is the Rodolpho C. Braga repository for Citation Style Language (CSL) styles and is maintained by LabMol Group.
+[github.com/rcbraga/CSL-Styles/](https://github.com/rcbraga/CSL-Styles/) is the Rodolpho C. Braga repository for Citation Style Language (CSL) styles and is maintained by [LabMol Research Group](http://labmol.farmacia.ufg.br).
 For more information, check out [CitationStyles.org](http://citationstyles.org/) and the [repository wiki](https://github.com/citation-style-language/styles/wiki).
 
 Licensing
